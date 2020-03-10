@@ -1711,6 +1711,7 @@ footer .getintouch .title {
 
 footer .getintouch {
   text-align: right;
+  top: 20px !important;
 }
 
 footer .getintouch p {
