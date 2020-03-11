@@ -570,8 +570,9 @@ header nav ul li a:focus {
 
 .slider-content h1 {
   color: #fff;
-  font-size: 80px;
-  font-weight: 500;
+  font-size: 72px;
+  font-weight: 400;
+  letter-spacing: -3px !important;
   opacity: 0;
   transform: translateX(100px);
   -webkit-transform: translateX(100px);
@@ -583,7 +584,7 @@ header nav ul li a:focus {
 .slider-content span {
   color: #fff;
   font-weight: 400;
-  font-size: 22px;
+  font-size: 18px;
   position: relative;
   text-decoration: underline;
   bottom: 5px;
